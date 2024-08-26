@@ -13,4 +13,5 @@ while i<=5:
  print("Último elemento da lista:", ultimo_elemento)
 
 
-#
+#'1 a 7' ele basicamente faz o sistema de lista, e retorna o último elemento
+#'8 a 13' o código basicamente imprime os resultados para o usuário

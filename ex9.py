@@ -15,3 +15,7 @@ while i<=10:
  print(lista) 
  insertion_sort(lista) 
  print(lista)
+
+ 
+ #'1 a 9' o código faz os processos para a inserção da lista
+ #'10 a 17'o código imprimi na tela os resultados da lista para o usuário 
